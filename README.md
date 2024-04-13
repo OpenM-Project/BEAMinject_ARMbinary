@@ -3,7 +3,7 @@
 ## :question: Why this repository exists
 GitHub Actions has no Windows ARM64 runner at the moment, so we cannot use the YML to build anything.
 
-There are some ARM runners available, but they're in private beta and until there's Windows ones, we won't be switching (as it requires extra work).
+Until Windows ARM64 runners are available to any workflows, this will stay here and be updated with every build.
 
 ## :inbox_tray: Downloads
 - [**BEAMinject_ARM:**](https://github.com/OpenM-Project/BEAMinject_ARMbinary/raw/main/BEAMinject_ARM.exe)
